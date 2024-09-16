@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there. 👋
 
 <!--
 **fkn-obi-wan-kenobi/fkn-obi-wan-kenobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
